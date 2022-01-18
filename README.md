@@ -6,7 +6,9 @@ Module 4, intro to Pandas!
  ### This challenge reviewed a set of School Distrcit data compiled in csv, to evaluate students and High Schools performance and therefore allocate budget accordingly. Furthermore, the analysis was done a second time with the purpose of removing potential fraudulent results from a particular High School.
 
  # Resources:
+ 
  **Data source** All data used in this analysis is in the [Resources](https://github.com/juanitacosmica/JC-School_District_Analysis/tree/main/Resources) folder.
+
  **Software** Python 3.7, Anaconda 4.11.0, Jupyter Notebook and Pandas.
   
 # Results: 
